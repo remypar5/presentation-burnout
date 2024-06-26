@@ -1,17 +1,17 @@
 ---
 layout: two-cols-header
-transition: fade
+transition: slide-up
 ---
 # Lead Up
 
 ::left::
-January 2022
+<span v-click>January 2022</span>
 
 <v-clicks>
 
-- Influenza
-- COVID-19
-- Influenza
+- Influenza 🦠
+- COVID-19 🦠
+- Influenza 🦠
 - Client: "Do you still like it here?" 🚩
 - Lack of proper sleep
 - Quit working out
@@ -27,8 +27,9 @@ January 2022
 <v-clicks>
 
 - Couldn't focus 🚩
-- COVID-19
-- Team: "Your output is good, but too low" 🚩
+- COVID-19 🦠
+- Client: "Output is good, but not enough" 🚩
+- Health & Safety Office, voluntarily
 
 </v-clicks>
 
@@ -36,8 +37,7 @@ January 2022
 
 <v-clicks>
 
-- Health & Safety Officer, voluntarily
-- Team: "We're not extending your contract" 🚩
+- Client: "We're not extending your contract" 🚩
 
 </v-clicks>
 
@@ -46,14 +46,13 @@ January 2022
 <v-clicks>
 
 - Scrum Master: "Should you even _want_ to stay?"
-- Health & Safety Officer, not voluntarily
 
 </v-clicks>
 
 <!--
 **January 2022**
-Months before FIL had heart attack
 
+- [click] Months before FIL had a heart attack
 - [click] "Had the flu at NYE" (tested negative for COVID-19)
 - [click] "COVID-19 came right after: sleeping for a week". All in the course of 5 months
 - [click] "Followed by influenza, again"
@@ -63,26 +62,27 @@ Months before FIL had heart attack
 - [click] I felt like to prove myself
 - [click] despite being tired all the time. First visits to GP
 
-June 2022
-- [click] A few months go by
+[click] **June 2022**
+
 - [click] Lot of _context switching_
 - [click] COVID-19. Again. Slept for a week. Again.
-- [click] The first noticeable red flag. More visits to GP
-
-August 2022
+- [click] Not finishing sprint goals.
+  - The first noticeable red flag.
+  - More visits to GP
 - [click] constantly tired -> requested consult with H&S
-- [click] End of contract came around. Could stay till EOY
-- Wanted to leave it behind properly (and look for new client)
 
-October 2022
-- [click] He pushed me over the edge and I'm grateful
-- [click] I called in sick
+[click] **August 2022**
+
+- [click] End of contract came around. Could stay till EOY
+  - Wanted to leave it behind properly
+  - Look for new client in the mean time
+
+[click] October 2022
+
+## [click] Transition
+He made me realise
 -->
 
 ---
-layout: image
-image: /images/stress-levels.jpg
-backgroundSize: contain
+src: ./realisation.md
 ---
-
-<h1 class="text-black">Lead Up</h1>

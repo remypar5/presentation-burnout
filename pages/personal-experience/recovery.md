@@ -1,5 +1,6 @@
 ---
 layout: dynamic-image
+transition: slide-up
 image: /images/exhaustion.jpg
 left: true
 equal: false
@@ -9,10 +10,10 @@ equal: false
 
 - Physical Therapy
 - Sleep
-- Psychological Help
 - Build up working hours
 - Son sleeps through the night
-- Talking about it
+- Psychological Help
+- Being open about my condition
 - Reduce caffeine intake
 - More sleep
 - Light exercise
@@ -30,6 +31,11 @@ equal: false
 layout: image
 image: /images/killer-sudoku.jpeg
 backgroundSize: contain
+title: Sudoku
 ---
 
-# Sudoku
+<!--
+## Transition
+
+"What about the aftermath?"
+-->
