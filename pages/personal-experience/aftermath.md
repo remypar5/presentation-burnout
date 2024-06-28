@@ -68,4 +68,5 @@ Hopefully here to stay
   - Realised in the past few days
   - I used to be anxious days before
   - Now I'm not at all anymore
+  - Maybe: Burn-out anxiety dwarfs speaker's anxiety
 -->
