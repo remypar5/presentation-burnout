@@ -18,7 +18,7 @@ equal: false
 - More sleep
 - Light exercise
 - Build up social interactions
-- Get tested for ADD (waitlisted)
+- Get tested for ADD (diagnosed)
 - Sleep some more
 
 <!--
