@@ -15,6 +15,7 @@ transition: slide-up
 <v-clicks>
 
 - Overwhelmed
+- No more guitar solos
 - Forgetful+
 - Emotional
 - Lonely
@@ -28,12 +29,16 @@ transition: slide-up
   - I "plan" down-time
   - MTG with friends
   - Parties
+  - When son doesn't co-operate
+- [click] (Guitar solos)
+  - Heart rate goes up
+  - They annoy me
 - [click] (Forgetful+) Especially when tired
   - Ask my wife ;-)
   - Still "forget" if I actually said something
 - [click] (Emotional) Movies/series, sadness, happiness, etc.
 - [click] (Lonely) From time to time
-- [click] (Introverted) Leave early at parties. Not going on week long vacation with In-Laws
+- [click] (Introverted) Leave early at parties
 - [click] (Babies) Used to love it. Now I don't really care for it
 
 ## Transition
@@ -65,7 +70,7 @@ Hopefully here to stay
   - How I feel
   - Getting help for it
 - [click] Presenter's anxiety
-  - Realised in the past few days
+  - Realized when making these slides
   - I used to be anxious days before
   - Now I'm not at all anymore
   - Maybe: Burn-out anxiety dwarfs speaker's anxiety

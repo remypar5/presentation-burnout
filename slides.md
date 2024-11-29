@@ -1,9 +1,8 @@
 ---
 theme: light-icons
-title: Going Pixel Perfect or Perfectly Insane
+title: About That Time My Brain Just Switched Off
 info: |
-  # Going Pixel Perfect or Perfectly Insane
-  ## About That Time My Brain Just Switched Off
+  # About That Time My Brain Just Switched Off
 highlighter: shiki
 mdc: true
 defaults:
