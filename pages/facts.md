@@ -12,7 +12,7 @@ It is characterized by three dimensions{class="mt-4! mb-4!"}
 
 - feelings of energy depletion or exhaustion;
 - increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and
-- reduced professional efficacy.”
+- reduced professional efficacy.
 
 <footer class="mt-4!">—World Health Organization (WHO), <cite>Burn-out an "occupational phenomenon"</cite></footer>
 </blockquote>

@@ -3,13 +3,7 @@ layout: center
 transition: slide-up
 ---
 
-# Going Pixel Perfect or Perfectly Insane
-
-About That Time My Brain Just Switched Off
-
-<!--
-"Yes, ChatGPT did help me with that title"
--->
+# About That Time My Brain Just Switched Off
 
 ---
 layout: dynamic-image
